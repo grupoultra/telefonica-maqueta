@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
-    "normalize-css": "^7.0.0"
+    "normalize-css": "^7.0.0",
+    "slick-carousel": "^1.7.1"
   },
   "overrides": {
     "bootstrap-sass": {
