@@ -1,6 +1,6 @@
 console.log('\'Allo \'Allo!');
 
-$(".slider").slick({
+$('.slider').slick({
     // normal options...
     infinite: true,
     slidesToShow: 4,
