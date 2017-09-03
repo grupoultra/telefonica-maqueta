@@ -1,1 +1,0 @@
-"use strict";$(".slider").slick({infinite:!0,slidesToShow:4});
